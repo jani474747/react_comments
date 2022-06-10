@@ -1,0 +1,22 @@
+
+
+
+.each-comment{
+  border: 1px solid rgb(0, 38, 255);
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.first{
+  display: flex;
+
+}
+.first p{
+  border: 1px solid red;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: rgb(174, 160, 160);
+  font-size: 2px;
+}
